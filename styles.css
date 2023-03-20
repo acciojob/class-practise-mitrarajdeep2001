@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 div{
-	background:#eee;
+	background:rgba(0, 0, 0, 0);
 }
 .selector{
-	color:#00f;
+	color:rgb(238, 238, 238);
 }
