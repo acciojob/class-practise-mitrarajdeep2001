@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
-div{
-	background:rgb(238, 238, 238);
-}
+
 .selector{
-	color:rgb(0, 0, 255);
+	background-color:#eee;
+	color:#00f;
 }
